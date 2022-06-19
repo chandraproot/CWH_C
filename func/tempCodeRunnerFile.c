@@ -1,0 +1,1 @@
+printstar(7);
